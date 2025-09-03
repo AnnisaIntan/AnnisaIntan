@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Let's%20Make%20Project%20Together&textBg=false&fontColor=6D6D6D&reversal=false&section=footer&fontSize=30&stroke=F8FDFF" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Let's%20Make%20Project%20Together&textBg=false&fontColor=6D6D6D&reversal=false&section=footer&fontSize=30&stroke=F8FDFF" />
 </p>
