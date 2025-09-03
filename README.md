@@ -1,14 +1,14 @@
 ## Hi there 👋
 
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{AnnisaIntan}/count.svg" alt="Visitor's Count" />
+  <p><b>Visitor Count</b></p>
+  <img src="https://profile-counter.glitch.me/AnnisaIntan/count.svg" alt="Visitor's Count" />
 </div>
 
-🌱 I’m currently learning at Electronic Engineering Polytechnic Institute of Surabaya
-👯 I’m looking to collaborate on Game field or Telecommunication Engineer field
-🤔 I’m looking for help with everyone
-💬 Ask me about Telecommunication Major
-📫 How to reach me: send a email to intanannisa0212@gmail.com
-😄 Pronouns: Indonesian, English, Javanese
-⚡ Fun fact: I don't like spicies, i love read book, and traveling
+🌱 I’m currently studying at **Electronic Engineering Polytechnic Institute of Surabaya**  
+👯 I’m looking to collaborate in the **Game Development** or **Telecommunication Engineering** fields  
+🤔 I’m open to learning and connecting with everyone  
+💬 Ask me about **Telecommunication Engineering**  
+📫 Reach me via email: **intanannisa0212@gmail.com**  
+😄 Languages I use: **Indonesian, English, Javanese**  
+⚡ Fun fact: I don’t like spicy food 🌶️, but I love reading books 📚 and traveling ✈️
