@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 * 👂 My name is **Annisa Intan**
-* 👩 Pronouns **Annisa**
+* 👩 Pronouns **She/Her**
 * 🌱 I’m currently studying at **Electronic Engineering Polytechnic Institute of Surabaya**  
 * 👯 I’m looking to collaborate in the **Game Development** or **Telecommunication Engineering** fields  
 * 🤔 I’m open to learning and connecting with everyone  
